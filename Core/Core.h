@@ -1,13 +1,13 @@
 #pragma once
-
 #include <string>
+#include "../CLIwrapper/CLIwrapper.h"
 
 namespace Core
 {
-
-	class Hello 
+	class HelloWorld
 	{
 	public:
-		std::string HelloWorld(std::string text);
+
+		std::string Hello();
 	};
 }

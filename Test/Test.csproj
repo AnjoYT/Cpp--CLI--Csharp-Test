@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Core-CLI\Core-CLI.vcxproj">
-      <Project>{0b6f412a-d8c6-4953-8028-7fdb88166545}</Project>
-      <Name>Core-CLI</Name>
+    <ProjectReference Include="..\CLIwrapper\CLIwrapper.vcxproj">
+      <Project>{2e737249-e710-4878-8899-049e57357846}</Project>
+      <Name>CLIwrapper</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

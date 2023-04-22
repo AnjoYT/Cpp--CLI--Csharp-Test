@@ -1,13 +1,17 @@
-﻿// Core.cpp : Ten plik zawiera funkcję „main”. W nim rozpoczyna się i kończy wykonywanie programu.
-//
-#include <iostream>
-#include <Windows.h>
-#include <string>
+#pragma once
+
 #include "Core.h"
 
-namespace Core 
+#include <string>
+
+namespace Core
 {
-	std::string Hello::HelloWorld(std::string text) {
-		return text;
-	}
+	class HelloWorld
+	{
+	public:
+		std::string Hello()
+		{
+			return "Hello World";
+		};
+	};
 }

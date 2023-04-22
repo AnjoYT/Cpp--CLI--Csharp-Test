@@ -1,0 +1,13 @@
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\Test\bin\Debug\Test.exe.config
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\Test\bin\Debug\Test.exe
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\Test\bin\Debug\Test.pdb
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\Test\obj\Debug\Test.exe
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\Test\obj\Debug\Test.pdb
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\Test\bin\Debug\Ijwhost.dll
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\Test\bin\Debug\CLIwrapper.dll
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\Test\bin\Debug\System.ValueTuple.dll
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\Test\bin\Debug\CLIwrapper.pdb
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\Test\obj\Debug\Test.csproj.CopyComplete
