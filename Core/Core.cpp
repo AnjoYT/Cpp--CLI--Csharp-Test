@@ -1,17 +1,14 @@
 #pragma once
 
+#include "pch.h"
 #include "Core.h"
 
 #include <string>
 
 namespace Core
 {
-	class HelloWorld
-	{
-	public:
-		std::string Hello()
+		std::string HelloWorld::Hello()
 		{
 			return "Hello World";
 		};
-	};
 }

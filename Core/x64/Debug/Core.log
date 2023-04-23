@@ -1,3 +1,5 @@
 ﻿  pch.cpp
-c1xx : error C7681: dwufazowe wyszukiwanie nazw nie jest obsługiwane w trybie C++/CLI ani C++/CX, użyj wartości /Zc:twoPhase-
-c1xx : fatal  error C1903: nie można odzyskać od poprzedniego błędu(ów); zatrzymywanie kompilacji
+  Core.cpp
+  dllmain.cpp
+  Generating Code...
+  Core.vcxproj -> E:\REPOS\TEST\Cpp--CLI--Csharp-Test\x64\Debug\Core.lib

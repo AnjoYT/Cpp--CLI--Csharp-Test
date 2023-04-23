@@ -1,9 +1,8 @@
 ﻿  pch.cpp
   AssemblyInfo.cpp
   CLIwrapper.cpp
-  Generowanie kodu...
+  Generating Code...
   .NETCoreApp,Version=v7.0.AssemblyAttributes.cpp
-  AssemblyInfo.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
-CLIwrapper.obj : error LNK2028: nierozpoznany token (0A000183) "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Core::HelloWorld::Hello(void)" (?Hello@HelloWorld@Core@@$$FQEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) przywoływany w funkcji "public: void __clrcall CLIwrapper::HelloWrap::Hello(void)" (?Hello@HelloWrap@CLIwrapper@@$$FQE$AAMXXZ)
-CLIwrapper.obj : error LNK2019: nierozpoznany symbol zewnętrzny "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Core::HelloWorld::Hello(void)" (?Hello@HelloWorld@Core@@$$FQEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) przywołany w funkcji "public: void __clrcall CLIwrapper::HelloWrap::Hello(void)" (?Hello@HelloWrap@CLIwrapper@@$$FQE$AAMXXZ)
-E:\REPOS\TEST\Cpp--CLI--Csharp-Test\x64\Debug\CLIwrapper.dll : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 2
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Core.lib(Core.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  CLIwrapper.vcxproj -> E:\REPOS\TEST\Cpp--CLI--Csharp-Test\x64\Debug\CLIwrapper.dll

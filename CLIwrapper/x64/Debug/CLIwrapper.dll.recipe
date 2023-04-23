@@ -2,6 +2,9 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+      <FullPath>E:\REPOS\TEST\Cpp--CLI--Csharp-Test\x64\Debug\CLIwrapper.runtimeconfig.json</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
       <FullPath>E:\REPOS\TEST\Cpp--CLI--Csharp-Test\x64\Debug\CLIwrapper.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
