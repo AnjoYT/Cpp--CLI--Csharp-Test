@@ -4,6 +4,63 @@
     "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\HelloApp\\HelloApp.csproj": {}
   },
   "projects": {
+    "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj",
+        "projectName": "CLIwrapper",
+        "projectPath": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj",
+        "packagesPath": "C:\\Users\\Bartek\\.nuget\\packages\\",
+        "outputPath": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\CLIwrapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bartek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "secondaryFramework": "native",
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22621.28, 10.0.22621.28]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\HelloApp\\HelloApp.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -18,16 +75,20 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
-            "projectReferences": {}
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj": {
+                "projectPath": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -37,8 +98,8 @@
         }
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -53,9 +114,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WPF": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
