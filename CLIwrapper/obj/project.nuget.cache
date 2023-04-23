@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vjFB6bJnH87hYo5Eqv44jPKXPc5lS6Lf/yAkJZEO17sufJ5L05PWYyE1xDqAgPA4/pL9pzr1wVVctjGbPAbIYQ==",
+  "dgSpecHash": "Pd0SnTVcX8rig1MbOrnTo9RSp1tBKF9C6dT+jSmzGkvbkKP6qBBYWT2v7kJRnJLINH068W9mXXvujgNVmBDcDA==",
   "success": true,
-  "projectFilePath": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj",
+  "projectFilePath": "D:\\Repos\\Test\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bartek\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
   ],
