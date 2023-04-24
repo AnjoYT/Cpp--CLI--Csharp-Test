@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bartek\\.nuget\\packages\\": {}
+    "C:\\Users\\bcieplix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\HelloApp\\HelloApp.csproj",
+      "projectUniqueName": "C:\\Users\\bcieplix\\Data\\Repos\\TESTS\\Cpp--CLI--Csharp-Test\\HelloApp\\HelloApp.csproj",
       "projectName": "HelloApp",
-      "projectPath": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\HelloApp\\HelloApp.csproj",
-      "packagesPath": "C:\\Users\\Bartek\\.nuget\\packages\\",
-      "outputPath": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\HelloApp\\obj\\",
+      "projectPath": "C:\\Users\\bcieplix\\Data\\Repos\\TESTS\\Cpp--CLI--Csharp-Test\\HelloApp\\HelloApp.csproj",
+      "packagesPath": "C:\\Users\\bcieplix\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bcieplix\\Data\\Repos\\TESTS\\Cpp--CLI--Csharp-Test\\HelloApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bartek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bcieplix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj": {
-              "projectPath": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj"
+            "C:\\Users\\bcieplix\\Data\\Repos\\TESTS\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj": {
+              "projectPath": "C:\\Users\\bcieplix\\Data\\Repos\\TESTS\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj"
             }
           }
         }

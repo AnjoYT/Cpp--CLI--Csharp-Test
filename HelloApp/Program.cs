@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using CLIwrapper;
+
+HelloWrap display = new HelloWrap();
+string result = display.Hello();
+Console.WriteLine(result);
