@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3Cs1cho2VhuMgEkxTwPFrWmbQmd22GkXfkut1sl31l1EvNp+hdvX6AAi7hkySUz9vghDOso/xlNTKpdWJqKoDw==",
+  "dgSpecHash": "vjFB6bJnH87hYo5Eqv44jPKXPc5lS6Lf/yAkJZEO17sufJ5L05PWYyE1xDqAgPA4/pL9pzr1wVVctjGbPAbIYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bcieplix\\Data\\Repos\\TESTS\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj",
+  "projectFilePath": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bcieplix\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.28\\microsoft.windows.sdk.net.ref.10.0.22000.28.nupkg.sha512"
+    "C:\\Users\\Bartek\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
   ],
   "logs": []
 }

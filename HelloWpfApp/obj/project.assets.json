@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "CLIwrapper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CLIwrapper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLIwrapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CLIwrapper/1.0.0": {
+      "type": "project",
+      "path": "../CLIwrapper/CLIwrapper.vcxproj",
+      "msbuildProject": "../CLIwrapper/CLIwrapper.vcxproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "CLIwrapper >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Bartek\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\HelloWpfApp\\HelloWpfApp.csproj",
+      "projectName": "HelloWpfApp",
+      "projectPath": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\HelloWpfApp\\HelloWpfApp.csproj",
+      "packagesPath": "C:\\Users\\Bartek\\.nuget\\packages\\",
+      "outputPath": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\HelloWpfApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Bartek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj": {
+              "projectPath": "E:\\REPOS\\TEST\\Cpp--CLI--Csharp-Test\\CLIwrapper\\CLIwrapper.vcxproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

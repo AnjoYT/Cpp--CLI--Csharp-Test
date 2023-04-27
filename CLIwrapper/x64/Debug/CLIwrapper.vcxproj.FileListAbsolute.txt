@@ -1,10 +1,10 @@
-E:\REPOS\TEST\Cpp--CLI--Csharp-Test\x64\Debug\Ijwhost.dll
-E:\REPOS\TEST\Cpp--CLI--Csharp-Test\x64\Debug\CLIwrapper.deps.json
-E:\REPOS\TEST\Cpp--CLI--Csharp-Test\x64\Debug\CLIwrapper.runtimeconfig.json
-E:\REPOS\TEST\Cpp--CLI--Csharp-Test\CLIwrapper\x64\Debug\CLIwrapper.vcxproj.AssemblyReference.cache
-E:\REPOS\TEST\Cpp--CLI--Csharp-Test\CLIwrapper\x64\Debug\CLIwrapper.genruntimeconfig.cache
 C:\Users\bcieplix\Data\Repos\TESTS\Cpp--CLI--Csharp-Test\x64\Debug\Ijwhost.dll
 C:\Users\bcieplix\Data\Repos\TESTS\Cpp--CLI--Csharp-Test\x64\Debug\CLIwrapper.deps.json
 C:\Users\bcieplix\Data\Repos\TESTS\Cpp--CLI--Csharp-Test\x64\Debug\CLIwrapper.runtimeconfig.json
 C:\Users\bcieplix\Data\Repos\TESTS\Cpp--CLI--Csharp-Test\CLIwrapper\x64\Debug\CLIwrapper.vcxproj.AssemblyReference.cache
 C:\Users\bcieplix\Data\Repos\TESTS\Cpp--CLI--Csharp-Test\CLIwrapper\x64\Debug\CLIwrapper.genruntimeconfig.cache
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\x64\Debug\Ijwhost.dll
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\x64\Debug\CLIwrapper.deps.json
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\x64\Debug\CLIwrapper.runtimeconfig.json
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\CLIwrapper\x64\Debug\CLIwrapper.vcxproj.AssemblyReference.cache
+E:\REPOS\TEST\Cpp--CLI--Csharp-Test\CLIwrapper\x64\Debug\CLIwrapper.genruntimeconfig.cache
