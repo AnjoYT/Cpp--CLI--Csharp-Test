@@ -4,4 +4,4 @@
   Generating Code...
   AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
 Core.lib(Core.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  CLIwrapper.vcxproj -> E:\REPOS\TEST\Cpp--CLI--Csharp-Test\x64\Debug\CLIwrapper.dll
+  CLIwrapper.vcxproj -> C:\Users\bcieplix\Data\Repos\TESTS\Cpp--CLI--Csharp-Test\x64\Debug\CLIwrapper.dll
